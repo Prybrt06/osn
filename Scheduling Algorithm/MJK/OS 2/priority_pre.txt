@@ -1,0 +1,19 @@
+priority queue - preemptive
+
+pno arr burst priority
+
+P1 0 1  2
+P2 1 7  6
+P3 2 3  3
+P4 3 6  5
+P5 4 5  4
+P6 5 15 10
+P7 15 8 9
+
+0 1 1 2
+1 7 2 6
+2 3 3 3
+3 6 4 5
+4 5 5 4
+5 15 6 10
+15 8 7 9
